@@ -215,3 +215,21 @@ File C:\AI\Scripts\EXIFRenamer\Dev\933014498 - 05-05-2023 20.21.37.png renamed t
 Script finished.
 Script started.
 Settings: {'delimiter': ' - ', 'keep_original_name': False}
+Script started.
+Settings: {'delimiter': ' - ', 'keep_original_name': True}
+Script started.
+Settings: {'delimiter': ' - ', 'keep_original_name': True}
+Script started.
+Settings: {'delimiter': ' - ', 'keep_original_name': True}
+Script started.
+Settings: {'delimiter': ' - ', 'keep_original_name': True}
+Script started.
+Settings: {'delimiter': ' - ', 'keep_original_name': True}
+Script started.
+Settings: {'delimiter': ' - ', 'keep_original_name': True}
+Script started.
+Settings: {'delimiter': ' - ', 'keep_original_name': True}
+Script started.
+Settings: {'delimiter': ' - ', 'keep_original_name': True}
+Script started.
+Settings: {'delimiter': ' - ', 'keep_original_name': True}
